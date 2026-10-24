@@ -1,5 +1,8 @@
 # Hong Kong horse racing: what we tested and what held up
 
+## Key note
+Nothing held up as a betting edge. Some tests were statistically significant, but in the wrong direction (draw bias on 2013–2020, tongue-tie changes, family stack version 1), or they did not reproduce (draw bias 1997–2005 failed on 2016–18; the 2016 walk-forward gain is one year of six on a reused window). Betting directly lost money, and not betting was the only choice the data supported.
+
 ## Summary
 No variable, model, or betting rule beat the market's final win odds on data it wasn't tuned on.
 The market is the strongest predictor we could build here. The closest candidates are a jockey
